@@ -1,0 +1,11 @@
+C:\Users\jan.rebis\GraftCodeProject\bin\Release\net9.0\HelloWorldService.deps.json
+C:\Users\jan.rebis\GraftCodeProject\bin\Release\net9.0\HelloWorldService.dll
+C:\Users\jan.rebis\GraftCodeProject\bin\Release\net9.0\HelloWorldService.pdb
+C:\Users\jan.rebis\GraftCodeProject\obj\Release\net9.0\HelloWorldService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jan.rebis\GraftCodeProject\obj\Release\net9.0\HelloWorldService.AssemblyInfoInputs.cache
+C:\Users\jan.rebis\GraftCodeProject\obj\Release\net9.0\HelloWorldService.AssemblyInfo.cs
+C:\Users\jan.rebis\GraftCodeProject\obj\Release\net9.0\HelloWorldService.csproj.CoreCompileInputs.cache
+C:\Users\jan.rebis\GraftCodeProject\obj\Release\net9.0\HelloWorldService.dll
+C:\Users\jan.rebis\GraftCodeProject\obj\Release\net9.0\refint\HelloWorldService.dll
+C:\Users\jan.rebis\GraftCodeProject\obj\Release\net9.0\HelloWorldService.pdb
+C:\Users\jan.rebis\GraftCodeProject\obj\Release\net9.0\ref\HelloWorldService.dll

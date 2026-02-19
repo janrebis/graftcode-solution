@@ -14,19 +14,19 @@
 ## How to run
 
 ### 1. Clone repository
-    ```bash
+  ```bash
     git clone https://github.com/janrebis/graftcode-solution.git
     cd graftcode-solution
-    ```
+  ```
 ### 2. Build docker image
-    ```bash
+  ```bash
     docker build -t hello-graft .
-    ```
+  ```
 ### 3. Run locally (works standalone, without Project Key)
-    ```bash
-      docker run --rm -p 80:80 -p 81:81 hello-graft \
-      gg --GV --modules "HelloWorldService.dll"
-    ```
+  ```bash
+    docker run --rm -p 80:80 -p 81:81 hello-graft \
+    gg --GV --modules "HelloWorldService.dll" 
+  ```
 
   - if port is already in use, try: 
   ```bash
@@ -39,11 +39,11 @@ Open in browser:
     http://localhost:81/GV
     ```
 ### 5. Run with Projekt Key 
-    ```bash
+  ```bash
     docker run --rm -p 80:80 -p 81:81 hello-graft \
       gg --projectKey "<YOUR_PROJECT_KEY>" --GV \
         --modules "HelloWorldService.dll"
-    ```
+  ```
 
 NOTICE: Project Keys are secrets and are not stored in this repository or Docker image. Provide the key with the docker run command.
 
